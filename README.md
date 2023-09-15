@@ -1,1 +1,1 @@
-# pandora2
+- Oyun çevirisi
